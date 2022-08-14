@@ -11,3 +11,4 @@
 <li>Interview Sheet: https://docs.google.com/document/d/17vKpd4iMYCuIOShgFJ0crdvRWRWKwVPQlG-6aN9CyJ8/edit</li>
 <li>JS Questions: https://github.com/albseb511/fsd/blob/master/javascript.md</li>
 <li>React Docs: https://docs.google.com/document/d/1VrdSQkSg-gC3Gp2gNJZ_6hbrZXdgkQHDk4mzSnUZiEU/edit</li>
+<li>DSA Sheet: https://www.notion.so/aman-vats-masai-school/Data-Structures-Algorithms-Recap-Part-1-512602a586be45fbbeb6bae920effdb9 </li>
