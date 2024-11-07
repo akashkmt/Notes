@@ -14,3 +14,4 @@
 <li>DSA Sheet: https://www.notion.so/aman-vats-masai-school/Data-Structures-Algorithms-Recap-Part-1-512602a586be45fbbeb6bae920effdb9 </li>
 <li>React Imp Notes: https://www.interviewbit.com/react-interview-questions/</li>
 <li>JS Imp Notes: https://www.interviewbit.com/javascript-interview-questions/#nan-property</li>
+<li>More HTML | CSS | JS Questions: https://docs.google.com/document/d/1ezBAExmHR8sLBFqeyZHTVS-AfBT7R7I-r5_coPSdO9Y</li>
